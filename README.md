@@ -8,4 +8,4 @@
 
 ___
 
-[See in action](https://thanushsiva.github.io/01-street-style-landing-page/)
+[See in action](https://thanushsiva.github.io/01-Street-Style-Landing-Page/)
